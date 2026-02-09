@@ -89,7 +89,7 @@ By the end of the workshop, participants will be able to:
 
 ### Data
 
-This workshop will use the [MSV000081463](https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?task=4a68d5e8439c4cf587ea3b96b84f9e5a) publicly available GNPS/MassIVE dataset. The following mzML files will be used during the hands-on sessions:
+This workshop will use the [MSV000100728](https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?task=c3343ca5b82b4fbea7b43f6ae8d10360) publicly available GNPS/MassIVE dataset. The following mzML files will be used during the hands-on sessions:
 - `NS_Seedling_1_1dpp_Seedling_1_B06_B6.mzML`
 - `NS_Seedling_2_1dpp_Seedling_1_C06_C6.mzML`
 - `NS_Seedling_3_1dpp_Seedling_1_D06_D6.mzML`
@@ -100,8 +100,6 @@ This workshop will use the [MSV000081463](https://massive.ucsd.edu/ProteoSAFe/da
 - `NS_Seedling_24h_Seedling_1_E03_E3.mzML`
 - `NS_Seedling_48h_Seedling_1_A05_A5.mzML`
 - `NS_Seedling_48h_Seedling_1_H04_H4.mzML`
-
-For convenience, these files are [available via Google Drive](https://drive.google.com/drive/folders/1F39MC0l01UUaD-QUFfkj-zmFVOkqahFA?usp=drive_link) to simplify local downloads during the workshop.
 
 All data are used in accordance with their original CC0 public license. Please cite the dataset appropriately if used beyond this workshop.
 
@@ -116,7 +114,7 @@ All data are used in accordance with their original CC0 public license. Please c
 * Website: [https://www.gnps2.org/](https://www.gnps2.org/)
 * Documentation: [https://wang-bioinformatics-lab.github.io/GNPS2_Documentation/](https://wang-bioinformatics-lab.github.io/GNPS2_Documentation/)
 
-**mzMine**
+**mzmine**
 
 * Download: [https://github.com/mzmine/mzmine/releases/tag/v4.8.30](https://github.com/mzmine/mzmine/releases/tag/v4.8.30)
 * Documentation: [https://mzmine.github.io/mzmine_documentation/index.html](https://mzmine.github.io/mzmine_documentation/index.html)
