@@ -78,12 +78,14 @@ By the end of the workshop, participants will be able to:
 
 ### Slides
 
-1. [Classical molecular networking with GNPS](https://docs.google.com/presentation/d/1bW9DTks46pQU_Dyu4Y7I78zxbOs1xeKMEA3sBSVHZk4/edit?usp=sharing)
-2. [Data visualization with GNPS](https://docs.google.com/presentation/d/1ybMi-c1QBMHcMxrq7JFiZ8GSL0cmqjbIskuG7N6ghQc/edit?usp=sharing)
-3. [Data visualization and processing with mzmine](https://docs.google.com/presentation/d/1mDQyweqLXmZMrRmRsyWFMyUXhos_P09k/edit?usp=sharing)
-4. [Feature-based molecular networking](https://docs.google.com/presentation/d/1doO0-KyEJZgXD6UHIaCe26LpzzFhrsih/edit?usp=sharing)
-5. [Repository-scale data analysis with MASST & ReDU](https://docs.google.com/presentation/d/1J4rUmMSxNthUHaO7ClGIlrvUvX_4UYbUbmJcSuErxsI/edit?usp=sharing)
-6. [Small molecule annotation using SIRIUS](https://docs.google.com/presentation/d/1ehLhCD3w3U4V8KcUczzOIoTLj95M5q3A/edit?usp=sharing)
+1. [Introduction to MS-baed metabolomics](https://drive.google.com/file/d/1EVgSjp-63k50OXriG68yUooqtiie7w3G/view?usp=drive_link)
+2. [Experimental design and quality control](https://drive.google.com/file/d/1oTp1Ccxwx_cJAHDadsXT8Ngyipa-ABrF/view?usp=drive_link)
+3. [Classical molecular networking with GNPS](https://docs.google.com/presentation/d/1bW9DTks46pQU_Dyu4Y7I78zxbOs1xeKMEA3sBSVHZk4/edit?usp=sharing)
+4. [Data visualization with GNPS](https://docs.google.com/presentation/d/1ybMi-c1QBMHcMxrq7JFiZ8GSL0cmqjbIskuG7N6ghQc/edit?usp=sharing)
+5. [Data visualization and processing with mzmine](https://docs.google.com/presentation/d/1mDQyweqLXmZMrRmRsyWFMyUXhos_P09k/edit?usp=sharing)
+6. [Feature-based molecular networking](https://docs.google.com/presentation/d/1doO0-KyEJZgXD6UHIaCe26LpzzFhrsih/edit?usp=sharing)
+7. [Repository-scale data analysis with MASST & ReDU](https://docs.google.com/presentation/d/1J4rUmMSxNthUHaO7ClGIlrvUvX_4UYbUbmJcSuErxsI/edit?usp=sharing)
+8. [Small molecule annotation using SIRIUS](https://docs.google.com/presentation/d/1ehLhCD3w3U4V8KcUczzOIoTLj95M5q3A/edit?usp=sharing)
 
 *Slides may be updated during the workshop.*
 
